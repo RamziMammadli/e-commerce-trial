@@ -3,7 +3,8 @@ import Navbar from './components/navbar';
 import Search from './components/search';
 import Categories from './components/categories';
 import Banner from './components/banner';
-import Product from './components/product';
+import Products from './components/products';
+import Footer from './components/footer';
 
 function App() {
   return (
@@ -12,7 +13,8 @@ function App() {
       <Search/>
       <Categories/>
       <Banner/>
-      <Product/>
+      <Products/>
+      <Footer/>
     </div>
   );
 }
