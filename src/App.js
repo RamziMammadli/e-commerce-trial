@@ -3,6 +3,7 @@ import Navbar from './components/navbar';
 import Search from './components/search';
 import Categories from './components/categories';
 import Banner from './components/banner';
+import Product from './components/product';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Search/>
       <Categories/>
       <Banner/>
+      <Product/>
     </div>
   );
 }

@@ -79,3 +79,23 @@
 input {
   width: 30rem;
 }
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  gap: 3rem;
+}
+.product-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  width: 17rem;
+}
+.product-card img {
+  width: 100px;
+  height: 100px;
+}
