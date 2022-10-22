@@ -1,0 +1,42 @@
+[
+    {
+        "image":"./images/toys/img1.png",
+        "title":"Minion toy",
+        "price":14
+    },
+    {
+        "image":"./images/toys/img2.png",
+        "title":"Picnic set",
+        "price":29
+    },
+    {
+        "image":"./images/toys/img3.png",
+        "title":"Bear",
+        "price":12
+    },
+    {
+        "image":"./images/toys/img4.png",
+        "title":"Socker Bopper",
+        "price":39
+    },
+    {
+        "image":"./images/toys/img5.png",
+        "title":"Bad Character",
+        "price":30
+    },
+    {
+        "image":"./images/toys/img6.png",
+        "title":"Tractor",
+        "price":18
+    },
+    {
+        "image":"./images/toys/img7.jpeg",
+        "title":"Vehicle",
+        "price":22
+    },
+    {
+        "image":"./images/toys/img8.png",
+        "title":"Lion",
+        "price":15
+    }
+]

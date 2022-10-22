@@ -1,0 +1,62 @@
+[
+    {
+        "image":"./images/bestseller/img1.png",
+        "title":"Versace Parfume",
+        "price":139
+    },
+    {
+        "image":"./images/bestseller/img2.png",
+        "title":"Natural False Lashes",
+        "price":29.99
+    },
+    {
+        "image":"./images/bestseller/img3.png",
+        "title":"Fresh Balsam Shampoo",
+        "price":34.90
+    },
+    {
+        "image":"./images/bestseller/img4.png",
+        "title":"ROWENTA Dryer",
+        "price":49.90
+    },
+    {
+        "image":"./images/bestseller/img5.png",
+        "title":"Car Set",
+        "price":1600
+    },
+    {
+        "image":"./images/bestseller/img6.png",
+        "title":"Lenovo 15IMH05I 8GB",
+        "price":1350
+    },
+    {
+        "image":"./images/bestseller/img7.png",
+        "title":"Pro Microphone for STUDIO",
+        "price":22
+    },
+    {
+        "image":"./images/bestseller/img8.png",
+        "title":"VECTOR ROBOT",
+        "price":230
+    },
+    {
+        "image":"./images/bestseller/img9.png",
+        "title":"W-Beatz Headphones",
+        "price":350
+    },
+    {
+        "image":"./images/bestseller/img10.png",
+        "title":"Xiaomi Headphones",
+        "price":29.90
+    },
+    {
+        "image":"./images/bestseller/img11.png",
+        "title":"MT Helmet",
+        "price":230
+    },
+    {
+        "image":"./images/bestseller/img12.png",
+        "title":"World History Book Set",
+        "price":84.90
+    }
+]
